@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Majumdar</h1>
 <h3 align="center">A passionate Full stack and Machine Learning developer from India</h3>
 
-- 🔭 I’m currently working on [My portfolio](abhishekmajumdar.tech)
+- 🔭 I’m currently working on [My portfolio](abhishekkumarmajumdar.in)
 
-- 👨‍💻 All of my projects are available at [abhishekmajumdar.tech](abhishekmajumdar.tech)
+- 👨‍💻 All of my projects are available at [AbhishekKumarMajumdar.in](abhishekkumarmajumdar.in)
 
 - 💬 Ask me about **JavaScript , SCSS , React , Node and Next**
 
