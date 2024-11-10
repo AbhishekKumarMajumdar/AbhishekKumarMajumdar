@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My portfolio](abhishekkumarmajumdar.in)
 
-- 👨‍💻 All of my projects are available at [AbhishekKumarMajumdar.in](abhishekkumarmajumdar.in)
+- 👨‍💻 All of my projects are available at [https://abhishekkumarmajumdar.in](abhishekkumarmajumdar.in)
 
 - 💬 Ask me about **JavaScript , SCSS , React , Node and Next**
 
