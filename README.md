@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript , SCSS , React , Node and Next**
 
-- 📫 How to reach me **pk006604@gmail.com**
+- 📫 How to reach me **Work.abhishekmajumdar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
