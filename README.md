@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Kumar Majumdar
 
-![Abhishek Kumar Majumdar Photo](https://your-photo-url-or-github-path/abhishek-kumar-majumdar.jpg) <!-- Embed your photo; host on GitHub or link from portfolio -->
+![Abhishek Kumar Majumdar Photo](https://res.cloudinary.com/djgzl5zcl/image/upload/v1755756339/IMG-20250710-WA0004_pauwjx.jpg) <!-- Embed your photo; host on GitHub or link from portfolio -->
 
 ### A passionate AR/VR, Full Stack, and Machine Learning Developer from India
 
@@ -20,7 +20,10 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abhishek-kumar-majumdar)  
 
 ### Languages and Tools:  
-
+![Logo](https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png)
+![Logo](https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png)
+![Logo](https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png)
+![Logo](https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png)
 
 ### Key Projects:  
 - **[DSA Visualizer](https://www.codebuddy.fun/)**: Interactive tool for visualizing algorithms like sorting and searching (JavaScript-based).  
