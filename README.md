@@ -10,23 +10,23 @@
 - 🛠️ Strong in C++, JavaScript; love teaching students C++ programming and web development.  
 - 🚀 Starting a small business in Android application development soon.  
 - 🎓 B.Tech graduate from Tankpur.  
-- 📫 Reach me: [abhishek@abhishekkumarmajumdar.in]  
+- 📫 Reach me: [work.abhishekmajumdar@gmail.com]  
 - 🌐 Portfolio: [abhishekkumarmajumdar.in](https://abhishekkumarmajumdar.in)  
 
 ### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theabhishekmajumdar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekkumarmajumdar)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itschiku_)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abhishek-kumar-majumdar)  
 
 ### Languages and Tools:  
-(Keep your current list: Bootstrap, C, C++, CSS3, Django, etc.—add AR/VR tools like Unity, ARKit, Flutter if missing.)
+
 
 ### Key Projects:  
 - **[DSA Visualizer](https://www.codebuddy.fun/)**: Interactive tool for visualizing algorithms like sorting and searching (JavaScript-based).  
-- **[Frontend Portfolio for Komal Kharkwal](https://komalkharkwal.vercel.app/)**: Freelance web project showcasing responsive design (React/Next.js on Vercel).  
+- **[AbhiKo](https://b-abhiko.vercel.app/)**: Buy Source Code   
 - **[Java-Course](https://github.com/AbhishekKumarMajumdar/Java-Course)**: Comprehensive Java learning resources.  
-- (Add more repos/projects, e.g., Flutter apps or AR prototypes, with links and brief descriptions.)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumarMajumdar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumarMajumdar&theme=dark&hide_border=true)  
